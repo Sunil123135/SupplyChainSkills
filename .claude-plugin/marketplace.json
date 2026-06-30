@@ -1,0 +1,6 @@
+{
+  "name": "nexova-skills",
+  "description": "Nexova supply chain & operations skills library — forecasting, inventory, logistics optimization, regulated-industry domain knowledge, and build tooling.",
+  "version": "1.0.0",
+  "skillsPath": "skills"
+}
